@@ -1,0 +1,390 @@
+.names{
+	display: inline-block;
+	/*border: solid 1px black;*/
+
+	
+}
+
+.logiun{
+
+	display: inline-block;
+	border-radius:800px;
+	/*border: solid 1px black;*/
+	
+}
+
+#logos{
+	width:410px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left:30px;
+	/*border: solid 1px black;*/
+}
+
+
+#baner img{
+	width: 100%;
+	height: 100%;
+	margin-top: -100px;
+	margin-bottom:100px;
+}
+
+#seccion1{
+/*border: solid 1px black;*/
+width: 100%;
+height: 100%;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+#Anuncios img{
+	width:300px;
+	height: 300px;
+	border-radius:5px 5px;
+}
+
+#Anuncios{
+	/*border: solid 1px black;*/
+	margin-left: 42px;
+	height:500px;
+	
+	
+}
+
+
+#titulo{
+	margin-bottom : 50px;
+	font-family: 'Mirza', cursive;
+	font-size: 60px;
+	color: #0B3B24;
+	text-align: center;
+}
+
+#model{
+	width:100%;
+	height:100%;
+}
+
+
+
+#button{
+	width: 90px; 
+	height: 25px;
+	font-size: 12px;
+}
+
+#button1{
+	width: 90px; 
+	height: 25px;
+	font-size: 10px;
+
+}
+
+#Anuncios h6{
+  	font-family: 'Mirza', cursive;
+  	font-size: 20px;
+  	color:grey;
+	
+  }
+
+
+  h4{
+  	font-family: 'Mirza', cursive;
+  	font-size: 23px;
+  	color:#0B3B24;
+  	text-align: left; 
+  }
+
+ #DescripcionP img{
+	margin-bottom:30px;
+	width:220px;
+	height: 220px;
+	margin-right: 25px;
+	margin-left: 8px;
+	display: inline-block;
+	overflow: hidden;
+
+} 
+
+#DescripcionP p{
+	font-family: 'Mirza', cursive;
+  	font-size: 20px;
+  	color:grey;
+  	text-align: left; 
+  
+}
+
+#TDescripcion{
+	text-align: justify;
+}
+
+ #articulo1 img{
+	width:300px;
+	height: 300px;
+	position: relative;
+	margin-right: 30px;
+	border-radius:5px 5px; 
+} 
+
+.imgPerfil{
+	display: inline-block;
+	border-radius:500px 500px ;
+}
+
+#Nperfil{
+	/*font-family: 'Mirza', cursive;*/
+	font-size: 15px;
+	display: inline-block;
+}
+
+.Perfil{
+	/*border: solid 1px black;*/
+	width: 100%;
+	height: 100%;
+	
+}
+
+.Perfil a{
+	display: inline-block;
+}
+
+.Cperfil{	
+	
+	text-align: center;
+	/*border: solid 1px black;*/
+}
+
+#Tanuncios{
+	margin-top: 50px;
+	width: 100%;
+	height: 700px;
+}
+
+#imganuncio{
+	width:100px;
+	height:100px;
+	border-radius:5px 5px;
+}
+
+.Formulario{
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	/*border: solid 1px black;*/
+}
+
+
+
+.Formulario input{
+	width:400px ;
+	height:30px;
+	font-size: 15px;
+	
+}
+
+.Formulario label{
+	font-size:20px;	
+}
+
+#Cfiltros{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	
+
+}
+
+#buscar{
+	width: 200px;
+	height: 30px;	
+	font-size: 15px;
+}
+
+#buscarbutton{
+	height: 30px;	
+	font-size: 15px;
+
+}
+
+#Cbuscar{
+	margin-right: 30px;
+}
+
+#Copcion{
+	width: 300px;
+	height: 35px;
+}
+
+#ttarea textarea{
+	width:600px;
+	height:100px;
+	font-size: 15px;
+	text-align: justify;
+}
+
+#menu a{
+	font-size: 15px;
+	color:#0B3B24;
+}
+
+
+
+#Copcion select{
+	margin-left:30px;
+	font-size: 10px;
+	width: 220px;
+	height: 30px;
+	display: inline-block;
+}
+
+
+#Filtrarbutton{
+	height: 23px;	
+	font-size: 12px;
+	margin-bottom: 30px;
+}
+
+#Imagen {
+	display: none;
+	
+}
+
+#Imagen2 {
+	display: none;
+	
+}
+
+#Imagen3 {
+	display: none;
+	
+}
+
+
+#subirA{
+	margin-left: 10px;
+	margin-right: 20px;	
+	width: 50px; 
+	height: 50px;
+	font-size: 20px;	
+}
+
+#imgfor{
+	display:flex;
+	flex-wrap: wrap;
+	width: 80px;
+	height: 80px;
+}
+
+#cont{
+	display:flex;
+	flex-wrap: wrap;
+
+}
+
+
+#opcionC select{
+	font-size: 15px;
+	width: 400px;
+	height: 30px;
+}
+
+
+
+.footer{
+	background:#CECECD;
+	/*border: solid 1px black;*/
+	margin-top: 250px;
+	height:150px;
+
+}
+.footer2{
+	background:#CECECD;
+	/*border: solid 1px black;*/
+	height:150px;
+	margin-top:50px;
+
+}
+
+#footer3{
+	background:#CECECD;
+	/*border: solid 1px black;*/
+	height:150px;
+	margin-top:210px;
+
+}
+
+.footer h1{
+	font-size: 15px;
+	color: #4D4A49;
+}
+
+#seccion4{
+	width: 100%;
+
+}
+
+#seccion4 img{
+	width: 100%;
+	height:500px;	
+
+}
+
+#redes{
+	
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#redes h1{
+	font-size: 10px;
+}
+
+#autores{
+	margin-top: 10px;
+}
+
+#Fot{
+	width: 100%;
+	height: 120px;
+	text-align: center;
+}
+
+hr{
+	text-align: center;
+	border: solid 2px #CECECD;
+}
+
+#hr{
+	border:none;
+}
+
+#edperfil label{
+	font-size: 15px;
+}
+
+#edperfil{
+	margin-top: 20px;
+	height: 400px;
+	width: 800px;
+}
+
+
+#edperfil input{
+	font-size: 15px;
+}
+
+#imag1{
+	width: 60px;
+	height: 60px;
+}
+
+#imag2{
+	width: 60px;
+	height: 60px;
+}
+
+#imag3{
+	width: 60px;
+	height: 60px;
+}
+
